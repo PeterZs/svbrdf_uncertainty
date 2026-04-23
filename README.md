@@ -113,11 +113,6 @@ python scripts/opt_sh_stanford_orb.py experiments/configs/new_folder
 
 This repository is licensed under the MIT License.
 
-<h2 id="roadmap">🗺 Roadmap</h2>
-<p align="right"><a href="#top"><sup>▴ Back to top</sup></a></p>
-
-We aim to release code for the synthetic benchmark. This might take a bit longer due to licensing constraints.
-
 <h2 id="citation">📖 Citation</h2>
 <p align="right"><a href="#top"><sup>▴ Back to top</sup></a></p>
 
